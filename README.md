@@ -8,15 +8,6 @@
 
 ---
 
-## 🔧 About Me
-
-- 🎓 Currently diving deep into **Machine Learning and AI**
-- 💬 Ask me anything about **AIML, Python, or Data Science**
-- ✨ Fun fact: *I’m a dancer combining creativity with logic!*
-- 📫 Reach me at: **vnayana050@gmail.com**
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
